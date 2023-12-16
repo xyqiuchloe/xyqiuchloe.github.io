@@ -4,7 +4,8 @@
 
 ## Education
 - M.S. Biostatistics            | Yale Univeristy （_May 2023_)
-- B.A. Statistics, B.A. Biology | University of Virginia (_May 2021_)
+- B.A. Statistics               | University of Virginia (_May 2021_)
+- B.A. Biology                  | University of Virginia (_May 2021_)
 
 ### Work Experience
 
@@ -23,15 +24,24 @@
 
 
 ### Projects
-#### Machine Learning Project (ICU Length of Stay Prediction) - Apr-May 2022 [View Code](https://github.com/xyqiuchloe/Predicting-the-Length-of-Stay-in-ICU-using-MIMICII-Dataset)
+#### Machine Learning Project (ICU Length of Stay Prediction) - Apr-May 2022 
+[View Code](https://github.com/xyqiuchloe/Predicting-the-Length-of-Stay-in-ICU-using-MIMICII-Dataset)
+
+
 - Analyzed ICU stay risk factors using machine learning; optimized data processing (30% faster); developed models (ElasticNet, Regression Tree, Random Forest, ANN) with 76.6% accuracy; conducted model performance tests(A/B testing).
 - Progamming Language: Python, SQL
 
-#### Machine Learning Project (Stock Returns Prediction) - Jan-May 2020 [View Code](https://github.com/xyqiuchloe/Predicting-Stock-Returns-of-USA-Listed-Technology-Companies-Using-Financial-Ratios)
+#### Machine Learning Project (Stock Returns Prediction) - Jan-May 2020 
+[View Code](https://github.com/xyqiuchloe/Predicting-Stock-Returns-of-USA-Listed-Technology-Companies-Using-Financial-Ratios)
+
+
 - Explored financial ratios vs. stock returns in US tech companies; identified key ratios; constructed winning vs. losing portfolios showing a 56.54% excess return.
 - Programming Language: R
 
-#### Full-Stack Web Programming (Yale Art Gallery Data Search Web App) - Feb-May 2023[View Code](https://github.com/xyqiuchloe/Command-Line-Program-for-Art-Gallery-Search)
+#### Full-Stack Web Programming (Yale Art Gallery Data Search Web App) - Feb-May 2023 
+[View Code](https://github.com/xyqiuchloe/Command-Line-Program-for-Art-Gallery-Search)
+
+
 - Created a web app for Yale Art Gallery collection search; enhanced data querying (23% faster response); used SQL, Python, HTML for dynamic data visualization; recognized for front-end and back-end expertise, improving data accessibility.
 - Programming Language: html, python, SQL
 
